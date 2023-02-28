@@ -10,7 +10,7 @@
 
     "Vless_UUID": {
       "description": "Vless uuid（http://www.uuid.online/在线生成）",
-      "value": "f8bfb621-6728-4a6c-ae69-2106cd3d7c8a"
+      "value": "b0293ec0-56c1-4f1b-b433-420394008ab5"
     },
 
     "Vless_Path": {
@@ -19,7 +19,7 @@
     },
     "Vmess_UUID": {
       "description": "Vmess uuid（http://www.uuid.online/在线生成）",
-      "value": "f8bfb621-6728-4a6c-ae69-2106cd3d7c8a"
+      "value": "b0293ec0-56c1-4f1b-b433-420394008ab5"
     },
 
     "Vmess_Path": {
@@ -37,7 +37,7 @@
        "value": "latest"
      }
   },
-  "website": "",
-  "repository": "",
+  "website": "/LynchKayla/warefw",
+  "repository": "/LynchKayla/warefw",
   "stack": "container"
  }
